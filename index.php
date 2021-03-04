@@ -38,7 +38,7 @@ session_start();
                                     <div class="text-center mt-4">
 							<h1 class="h2">Bem Vindo de Volta</h1>
 							<p class="lead">
-								Entre com sua conta para continuar
+								Entre com a sua conta para continuar
 							</p>
                                       
 						</div>
